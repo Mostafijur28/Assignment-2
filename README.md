@@ -12,16 +12,25 @@ Datasets : House price data set
 ## Conclusions
 
 From my analysis the model perform more better when with ridge regression model as compared to that of Lasso Regression. This determines that all the categorical and numeric parameters are equally important to predict the prices of houses of Australia. 
+
 Ridge Stats : 
+
 R-square-train : 0.942633033269852
+
 R-square-test : 0.7364320830095437
+
 RMSE-train : 358512571.73819387
+
 RMSE-test : 1696169384.0624022
 
 Lasso Stats : 
+
 R-square-train : 0.9426563900728945
+
 R-square-test : 0.5762099698866037
+
 RMSE-train : 358366604.3286617
+
 RMSE-test : 2727265452.324588
 
 
